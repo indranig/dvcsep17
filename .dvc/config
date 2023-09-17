@@ -1,0 +1,6 @@
+[core]
+    remote = mys3remote
+['remote "mys3remote"']
+    url = s3://dvcsep17 
+['remote "remote-gdrive"']
+    url = gdrive://1A3veH_BN_E3jtuZK0TX7RHJFVtnYy6lQ 
